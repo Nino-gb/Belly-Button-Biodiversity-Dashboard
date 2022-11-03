@@ -29,4 +29,6 @@ The purpose of this Dashboard is to research bacteria species that have ability 
   - d3.json().then()
 # Result
 
+Belly-Button-Biodiversity-Dashboard link: https://nino-gb.github.io/Belly-Button-Biodiversity-Dashboard/
+
 ![Screen Shot 2022-11-02 at 10 38 19 PM](https://user-images.githubusercontent.com/110786136/199643821-b988bcd9-cabc-4150-8bc5-130d03104ed3.png)
